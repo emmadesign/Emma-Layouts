@@ -1,0 +1,52 @@
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top" style="padding:8px;"><div align="center">
+       <img src="insert your image url here" border="0" alt="" />
+      </div>
+      <div align="center">insert your text here</div>
+      <div>insert your text here</div><br />
+      <div align="center">
+       <img src="insert your image url here" border="0" alt="" />
+      </div>
+      <div align="center">insert your text here</div>
+      <div>insert your text here</div><br />
+      <div align="center">
+        <img src="insert your image url here" border="0" alt="" />
+      </div>
+      <div align="center">insert your text here</div>
+      <div>insert your text here</div><br />
+      <div align="center">
+       <img src="insert your image url here" border="0" alt="" />
+      </div>
+      <div align="center">insert your text here</div>
+      <div>insert your text here</div><br />
+      <div align="center">
+        <img src="insert your image url here" border="0" alt="" />
+      </div>
+      <div align="center">insert your text here</div>
+      <div>insert your text here</div><br />
+</td>
+  </tr>
+  <tr>
+    <td valign="top" style="padding:3px;"><table width="100%" cellpadding="0" cellspacing="0">
+        <tr>
+          <td width="25%" style="padding:5px;" valign="top"><div align="center">
+             <img src="insert your image url here" border="0" alt="" />
+            </div>
+            <div>insert your text here</div></td>
+          <td width="25%" style="padding:5px;" valign="top"><div align="center">
+              <img src="insert your image url here" border="0" alt="" />
+            </div>
+            <div>insert your text here</div></td>
+          <td width="25%" style="padding:5px;" valign="top"><div align="center">
+              <img src="insert your image url here" border="0" alt="" />
+            </div>
+            <div>insert your text here</div></td>
+          <td width="25%" style="padding:5px;" valign="top"><div align="center">
+              <img src="insert your image url here" border="0" alt="" />
+            </div>
+            <div>insert your text here</div></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>

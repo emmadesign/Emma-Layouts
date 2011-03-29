@@ -1,0 +1,86 @@
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr valign="top">
+    <td width="75%" style="padding:5px;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td valign="top" style="padding:5px;"><table width="1%" border="0" align="right" cellpadding="0" cellspacing="0">
+              <tr>
+                <td width="1%" valign="top" style="padding-left:10px; padding-bottom:10px;"><div align="right">
+                    <img src="insert your image url here" border="0" alt="" />
+                  </div>
+                  <div>insert your text here</div></td>
+              </tr>
+            </table>
+            <div>insert your text here</div></td>
+        </tr>
+        <tr>
+          <td valign="top" style="padding:5px;"><table width="1%" border="0" align="left" cellpadding="0" cellspacing="0">
+              <tr>
+                <td width="1%" valign="top" style="padding-right:10px; padding-bottom:10px;"><div align="left">
+                    <img src="insert your image url here" border="0" alt="" />
+                  </div>
+                  <div>insert your text here</div></td>
+              </tr>
+            </table>
+            <div>insert your text here</div></td>
+        </tr>
+        <tr>
+          <td valign="top" style="padding:5px;"><table width="1%" border="0" align="right" cellpadding="0" cellspacing="0">
+              <tr>
+                <td width="1%" valign="top" style="padding-left:10px; padding-bottom:10px;"><div align="right">
+                    <img src="insert your image url here" border="0" alt="" />
+                  </div>
+                  <div>insert your text here</div></td>
+              </tr>
+            </table>
+            <div>insert your text here</div></td>
+        </tr>
+        <tr>
+          <td valign="top" style="padding:5px;"><table width="1%" border="0" align="left" cellpadding="0" cellspacing="0">
+              <tr>
+                <td width="1%" valign="top" style="padding-right:10px; padding-bottom:10px;"><div align="left">
+                    <img src="insert your image url here" border="0" alt="" />
+                  </div>
+                  <div>insert your text here</div></td>
+              </tr>
+            </table>
+            <div>insert your text here</div></td>
+        </tr>
+        <tr>
+          <td valign="top" style="padding:5px;"><table width="1%" border="0" align="right" cellpadding="0" cellspacing="0">
+              <tr>
+                <td width="1%" valign="top" style="padding-left:10px; padding-bottom:10px;"><div align="right">
+                    <img src="insert your image url here" border="0" alt="" />
+                  </div>
+                  <div>insert your text here</div></td>
+              </tr>
+            </table>
+            <div>insert your text here</div></td>
+        </tr>
+      </table></td>
+    <td width="1%" style="border-left: 1px solid #999999; padding-right: 3px; padding-left: 3px;"><img src="http://www.e2ma.net/userdata/24/images/templates/spacer.gif" width="1" height="1"></td>
+    <td width="24%" style="padding:5px;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td valign="top" style="padding:5px;"><div align="center">
+              <img src="insert your image url here" border="0" alt="" />
+            </div>
+            <div>insert your text here</div>
+            <div align="center">
+             <img src="insert your image url here" border="0" alt="" />
+            </div>
+            <div>insert your text here</div>
+            <div align="center">
+              <img src="insert your image url here" border="0" alt="" />
+            </div>
+            <div>insert your text here</div>
+            <div align="center">
+             <img src="insert your image url here" border="0" alt="" />
+            </div>
+            <div>insert your text here</div>
+            <div align="center">
+              <img src="insert your image url here" border="0" alt="" />
+            </div>
+            <div>insert your text here</div></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>

@@ -1,0 +1,25 @@
+<table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="25%" valign="top" style="padding:5px;"><div align="center">
+        <img src="insert your image url here" border="0" alt="" />
+      </div>
+      <div>insert your text here</div><br />
+      <div align="center">
+        <img src="insert your image url here" border="0" alt="" />
+      </div>
+      <div>insert your text here</div><br />
+      <div align="center">
+        <img src="insert your image url here" border="0" alt="" />
+      </div>
+      <div>insert your text here</div><br />
+      <div align="center">
+        <img src="insert your image url here" border="0" alt="" />
+      </div>
+      <div>insert your text here</div><br />
+      <div align="center">
+        <img src="insert your image url here" border="0" alt="" />
+      </div>
+      <div>insert your text here</div></td>
+    <td width="75%" valign="top" style="padding:5px;"><div>insert your text here</div></td>
+  </tr>
+</table>
